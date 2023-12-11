@@ -24,7 +24,7 @@ Before you can use the script, you need to have ImageMagick installed on your sy
 
 2. **Place the Script in the Desired Directory**: Copy `start.bat` to the directory where your HEIC images are stored.
 
-3. **Run the Script**: Double-click on `start.bat` or run it from the command prompt. The script will generate a new batch file `ConvertHEICToPNGCommands.bat` in the same directory.
+3. **Run the Script**: Double-click on `start.bat` or run it from the command prompt. The script will generate a new batch file `HEICToPNG.bat` in the same directory.
 
 4. **Execute the Conversion**: Run `HEICToPNG.bat` to convert all HEIC files in the folder to PNG format.
 
